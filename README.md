@@ -20,8 +20,8 @@ Looking for my first job <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ```javascript
 const davi = {
   pronouns: "ele" | "dele",
-  code: [Java],
-  tools: [React,  Node,  Jest, Docker],
+  code: [Java, JavaScript],
+  tools: [React, Node, Docker],
   techCommunities: {
                         
                         participant: "Alura",
