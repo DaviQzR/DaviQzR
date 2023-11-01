@@ -18,16 +18,13 @@ Looking for my first job <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 
 ```javascript
-const davi = {
+const Davi = {
   pronouns: "ele" | "dele",
   code: [Java, JavaScript, Sql],
   tools: [Git, Github, React, Node, Docker],
-  techCommunities: {
-                        
+  techCommunities: { 
                         participant: "Alura",
-                        
-                        
-                      },
+                   },
  challenge: " "
 }
 ```
