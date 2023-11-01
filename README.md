@@ -36,12 +36,15 @@ const davi = {
 
 ---
 
-<div>
-  
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviQzR&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img  align= 'right'  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviQzR&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
-<br>
+<br/>
+<a href="https://github.com/ByancaMatos01">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviQzR&theme=dracula&show_icons=true" />
+  <div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=DaviQzR&theme=radical&mode=weekly" />
+<div  align="center" style="margin-bottom:100px">
+ </div>
+</a>
+
 
 ---
 <div align="center">
