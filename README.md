@@ -34,7 +34,7 @@ const Davi = {
 ---
 
 <br/>
-<a href="https://github.com/ByancaMatos01">
+<a href="https://github.com/DaviQzR">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviQzR&theme=dracula&show_icons=true" />
   <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=DaviQzR&theme=radical&mode=weekly" />
