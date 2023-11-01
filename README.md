@@ -29,7 +29,7 @@ const Davi = {
 }
 ```
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHg0YTBiZGRtN2dwaG8yejlkNWs5b3lxMzRhb3NjcGdraHIwd2N6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LnQjpWaON8nhr21vNW/giphy.gif"> <em><b>"Through codes and algorithms, the young programmer discovered that success is not just a matter of numbers, but of passion and determination." <b>Constantly evolving!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="20"> <em><b>"Through codes and algorithms, the young programmer discovered that success is not just a matter of numbers, but of passion and determination." <b>Constantly evolving!</b> :)</em>
 
 ---
 
