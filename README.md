@@ -12,7 +12,7 @@ Looking for my first job <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   
 </div>
 
-<img align='right' src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width="250">
+<img align='right' src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width="310">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
