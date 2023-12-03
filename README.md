@@ -1,6 +1,6 @@
 <p align="center">🇧🇷👋 Olá! Sou o Davi De Queiroz, estudante de Análise e Desenvolvimento de Sistemas em busca de conhecimento e desafios empolgantes na área de tecnologia. Atualmente, estou mergulhando em uma variedade de tecnologias, ampliando meu conhecimento em diferentes linguagens e ferramentas.
 <br><br>Focado em aprimorar minhas habilidades, tenho um grande interesse em contribuir para projetos inovadores e aprender continuamente para me destacar como um profissional na área de desenvolvimento de sistemas. 🚀</p>&nbsp;
-<p align="center">-<br><br></p>
+<p align="center">--<br><br></p>
 <p align="center">🇺🇸👋 Hello! I'm Davi De Queiroz, a student of Systems Analysis and Development seeking knowledge and exciting challenges in the field of technology. Currently, I'm diving into a variety of technologies, expanding my knowledge across different languages and tools. 
 <br><br>Focused on improving my skills, I have a keen interest in contributing to innovative projects and learning continuously to stand out as a professional in the field of system development. 🚀</p>&nbsp;
 
@@ -12,9 +12,10 @@
 
 
 <div align="center" style="margin-bottom:100px">
-  <img width=45% src="https://github-readme-stats.vercel.app/api?username=DaviQzR&theme=dracula&show_icons=true" />
-  <img width=45% src="https://github-readme-streak-stats.herokuapp.com?user=DaviQzR&theme=radical&mode=weekly" />
+  <img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=DaviQzR&theme=radical&mode=weekly" />
+  <img width=45% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviQzR&show_icons=true&theme=radical&layout=compact" />
 </div>
+
 
 
 
@@ -34,10 +35,11 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-<!--
-#### Studying in this moment:
 
--->
+#### Studying Now:
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 #### Databases:
 
