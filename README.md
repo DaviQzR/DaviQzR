@@ -12,8 +12,8 @@
 
 
 <div align="center" style="margin-bottom:100px">
-  <img width=40% src="https://github-readme-stats.vercel.app/api?username=DaviQzR&theme=dracula&show_icons=true" />
-  <img width=40% src="https://github-readme-streak-stats.herokuapp.com?user=DaviQzR&theme=radical&mode=weekly" />
+  <img width=45% src="https://github-readme-stats.vercel.app/api?username=DaviQzR&theme=dracula&show_icons=true" />
+  <img width=45% src="https://github-readme-streak-stats.herokuapp.com?user=DaviQzR&theme=radical&mode=weekly" />
 </div>
 
 
